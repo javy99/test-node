@@ -1,2 +1,2 @@
 # node-docker
-Simple node and express docker for demo purposes
+Simple node and express docker for demo purposes.
